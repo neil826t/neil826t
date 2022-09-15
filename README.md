@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Thanks for visiting my github. Like most things in my life, it is a work in progress but I'm happy with what I've learned to get to this point.
+
+A lot of my repositories are still educational since I'm still a student. The other repositories are mostly personal projects, a lot of which I made when I was young before I knew about github.
+
+I love talking to people about the things I've done and I'm working on; feel free to shoot me an email with any questions at neli826t@gmail.com.
+
+
 <!--
 **neil826t/neil826t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
