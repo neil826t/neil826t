@@ -4,7 +4,7 @@ Thanks for visiting my github. Like most things in my life, it is a work in prog
 
 A lot of my repositories are still educational since I'm still a student. The other repositories are mostly personal projects, a lot of which I made when I was young before I knew about github.
 
-I love talking to people about the things I've done and I'm working on; feel free to shoot me an email with any questions at neli826t@gmail.com.
+I love talking to people about the things I've done and I'm working on; feel free to shoot me an email with any questions at neil826t@gmail.com.
 
 
 <!--
