@@ -6,6 +6,7 @@ A lot of my repositories are still educational since I'm still a student. The ot
 
 I love talking to people about the things I've done and I'm working on; feel free to shoot me an email with any questions at neil826t@gmail.com.
 
+See my musical taste: stats.fm/neil
 
 <!--
 **neil826t/neil826t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
